@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<server port="8080">
+  <module context="SupremeDataSolution" name="SupremeDataSolution" path="F:/Work/WebSite/604/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/SupremeDataSolution" type="static"/>
+</server>
